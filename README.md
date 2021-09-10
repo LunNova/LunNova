@@ -17,10 +17,13 @@
 1. [NoCursorLock](https://github.com/TransLunarInjection/NoCursorLock).
    Stops Nvidia shield streaming service from locking the cursor on the primary monitor.
 1. [JarOpener](https://github.com/TransLunarInjection/JarOpener). Tool which makes every entry in a jar non-final and accessible.
+1. [no-more-mr-dice-guy](https://github.com/TransLunarInjection/no-more-mr-dice-guy). Discord dice bot mostly intended for text RPGs.
+1. [binja-function-finder](https://github.com/TransLunarInjection/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
  
 ### Services / Sites
 
-1. [Old jenkins](https://jenkins.nallar.me/). Builds/downloads prior to ~2019
 1. [Planetside 2 Mouse Sensitivity Calculator](https://nallar.me/ps2sens/). Calculates sensitivity config for given cm/360 for PS2.
-1. [Nano Node](https://nano-node-monitor.moonstruck.dev/). 
+1. [Old jenkins](https://jenkins.nallar.me/). Builds/downloads prior to ~2019
+1. [Maven](https://maven.minco.dev/). Repo with java libraries. (Supersedes repo.nallar.me, which will see no new content.)
+1. [Nano Node](https://nano-node-monitor.moonstruck.dev/). I like Nano because it doesn't involve mining or staking, so I run a node to help the network.
 1. [MLP fic list](https://www.nallar.me/fics/). MLP fanfiction scraped from google docs, before the community moved to fimfiction.
