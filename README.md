@@ -20,6 +20,10 @@
 1. [no-more-mr-dice-guy](https://github.com/TransLunarInjection/no-more-mr-dice-guy). Discord dice bot mostly intended for text RPGs.
 1. [binja-function-finder](https://github.com/TransLunarInjection/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
  
+### Security Research
+
+1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://moonstruck.dev/blog/cve-2018-7118/)
+
 ### Services / Sites
 
 1. [Planetside 2 Mouse Sensitivity Calculator](https://nallar.me/ps2sens/). Calculates sensitivity config for given cm/360 for PS2.
