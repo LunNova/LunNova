@@ -18,11 +18,11 @@
    Stops Nvidia shield streaming service from locking the cursor on the primary monitor.
 1. [JarOpener](https://github.com/TransLunarInjection/JarOpener). Tool which makes every entry in a jar non-final and accessible.
 1. [no-more-mr-dice-guy](https://github.com/TransLunarInjection/no-more-mr-dice-guy). Discord dice bot mostly intended for text RPGs.
-1. [binja-function-finder](https://github.com/TransLunarInjection/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
+1. [binja-function-finder](https://github.com/TransLunarInjection/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://web.archive.org/web/20150321025633/https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
  
 ### Security Research
 
-1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://moonstruck.dev/blog/cve-2018-7118/)
+1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
 
 ### Services / Sites
 
