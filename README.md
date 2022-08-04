@@ -6,6 +6,7 @@
    Performance profiler for modded minecraft servers with releases for 1.4.7 through 1.12.
 1. [TickThreading](https://github.com/MinimallyCorrect/TickThreading)
    Threading/performance enhancement for modded minecraft. Only has workable released versions for 1.4.7.
+1. [nixos-configs](https://github.com/LunNova/nixos-configs) Infrastructure as Code for all my home PCs and home servers, with as little state as I can manage.
 1. [Pluralsight Speed](https://github.com/TransLunarInjection/userscripts/blob/main/pluralsight%20speed.user.js)
    Userscript which allows higher than 2x playback speed when watching Pluralsight courses.
 1. [RecirculatingCarriageForTSlot](https://github.com/TransLunarInjection/RecirculatingCarriageForTSlot).
