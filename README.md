@@ -24,9 +24,12 @@
 ### Security Research
 
 1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
+1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
+1. and more articles https://lunnova.dev/articles/
 
 ### Services / Sites
 
+1. [https://lunnova.dev/](https://lunnova.dev/). Blog built with [Zola](https://www.getzola.org/). I post an article at least every few months. 
 1. [Planetside 2 Mouse Sensitivity Calculator](https://nallar.me/ps2sens/). Calculates sensitivity config for given cm/360 for PS2.
 1. [Old jenkins](https://jenkins.nallar.me/). Builds/downloads prior to ~2019
 1. [Maven](https://maven.minco.dev/). Repo with java libraries. (Supersedes repo.nallar.me, which will see no new content.)
