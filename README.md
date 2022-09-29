@@ -29,6 +29,10 @@
 1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
 1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
 
+### Machine Learning Research
+
+1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
+
 ### Services / Sites
 
 1. [lunnova.dev/](https://lunnova.dev/). Static site and blog built with [Zola](https://www.getzola.org/). I post an article at least every few months. 
