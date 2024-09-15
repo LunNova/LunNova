@@ -1,19 +1,19 @@
-[lunnova.dev](https://lunnova.dev/articles/)
+[$ cd ~LunNova](https://lunnova.dev/)
 
 ### Usable Projects
 
-1. [import-ynab](https://github.com/TransLunarInjection/import-ynab)
+1. [import-ynab](https://github.com/LunNova/import-ynab)
    Automatic data import for [YNAB](https://www.youneedabudget.com/ "You Need A Budget") budgeting tool. For Revolut or UK truelayer users only.
 1. [TickProfiler](https://github.com/MinimallyCorrect/TickProfiler)
    Performance profiler for modded minecraft servers with releases for 1.4.7 through 1.12.
 1. [TickThreading](https://github.com/MinimallyCorrect/TickThreading)
    Threading/performance enhancement for modded minecraft. Only has workable released versions for 1.4.7.
 1. [nixos-configs](https://github.com/LunNova/nixos-configs) Infrastructure as Code for all my home PCs and home servers, with as little state as I can manage.
-1. [Pluralsight Speed](https://github.com/TransLunarInjection/userscripts/blob/main/pluralsight%20speed.user.js)
+1. [Pluralsight Speed](https://github.com/LunNova/userscripts/blob/main/pluralsight%20speed.user.js)
    Userscript which allows higher than 2x playback speed when watching Pluralsight courses.
-1. [RecirculatingCarriageForTSlot](https://github.com/TransLunarInjection/RecirculatingCarriageForTSlot).
+1. [RecirculatingCarriageForTSlot](https://github.com/LunNova/RecirculatingCarriageForTSlot).
    A 3d printable (except for bearing balls) parametric recirculating carriage for T-Slot extrusion.
-1. [PS2Edit](https://github.com/TransLunarInjection/PS2Edit).
+1. [PS2Edit](https://github.com/LunNova/PS2Edit).
    Viewer and editor for Planetside 2 asset pack files.
 1. [Puma6Fail](https://github.com/TransLunarInjection/Puma6Fail).
    Demo of CVE-2017-5693, a Denial of Service attack against Puma 6 cable modems which also impacted normal usage with lots of UDP traffic.
@@ -36,7 +36,17 @@
 
 1. [lunnova.dev/](https://lunnova.dev/). Static site and blog built with [Zola](https://www.getzola.org/). I post an article at least every few months. 
 1. [Planetside 2 Mouse Sensitivity Calculator](https://nallar.me/ps2sens/). Calculates sensitivity config for given cm/360 for PS2.
-1. [Old jenkins](https://jenkins.nallar.me/). Builds/downloads for Java projects prior to ~2019
 1. [Maven](https://maven.minco.dev/). Repo with java libraries. (Supersedes repo.nallar.me, which will see no new content.)
-1. [Nano Node](https://nano-node-monitor.moonstruck.dev/). Nano node. "Green" crypto doesn't involve mining or staking and relies on volunteers, so I run a node to help the network.
-1. [MLP fic list](https://www.nallar.me/fics/). MLP fanfiction scraped from google docs, before the community moved to fimfiction.
+1. [Old jenkins](https://jenkins.nallar.me/). Builds/downloads for Java projects prior to ~2019
+1. [Nano Node](https://nano-node-monitor.moonstruck.dev/). Nano node. "Green" crypto doesn't involve mining, staking or fees and relies on volunteers, so I run a node to help the network.
+1. [MLP fic list](https://www.nallar.me/fics/). Archive of My Little Pony fanfiction scraped from google docs, from before the community realized that was terrible and moved to fimfiction.
+
+### Motivation
+
+<div align="center" width="100%">
+
+![](https://streak-stats.demolab.com/?user=LunNova&theme=nightowl&mode=weekly&date_format=Y-m-d&background=1D0F1F00)
+
+</div>
+
+GitHub's builtin commit streak indicator was removed a decade ago. Probably had disastrous negative consequences on OSS output; that thing hacked my brain. Fortunately there are alternatives.
