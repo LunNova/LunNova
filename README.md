@@ -28,8 +28,9 @@
 1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
 1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
 
-### Machine Learning Research
+### Machine Learning
 
+1. [ScionLight-reimpl](https://github.com/LunNova?tab=repositories) - Implementation of ScionLight uSCG optimizer from [Training Deep Learning Models with Norm-Constrained LMOs](https://arxiv.org/abs/2502.07529)
 1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
 
 ### Services / Sites
@@ -40,13 +41,3 @@
 1. [Old jenkins](https://jenkins.nallar.me/). Builds/downloads for Java projects prior to ~2019
 1. [Nano Node](https://nano-node-monitor.moonstruck.dev/). Nano node. "Green" crypto doesn't involve mining, staking or fees and relies on volunteers, so I run a node to help the network.
 1. [MLP fic list](https://www.nallar.me/fics/). Archive of My Little Pony fanfiction scraped from google docs, from before the community realized that was terrible and moved to fimfiction.
-
-### Motivation
-
-<div align="center" width="100%">
-
-![](https://streak-stats.demolab.com/?user=LunNova&theme=nightowl&mode=weekly&date_format=Y-m-d&background=1D0F1F00)
-
-</div>
-
-GitHub's builtin commit streak indicator was removed a decade ago. Probably had disastrous negative consequences on OSS output; that thing hacked my brain. Fortunately there are alternatives.
