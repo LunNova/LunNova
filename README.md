@@ -1,5 +1,15 @@
 [$ cd ~LunNova](https://lunnova.dev/)
 
+### Security Research
+
+1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
+1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
+
+### Machine Learning
+
+1. [ScionLight-reimpl](https://github.com/LunNova/ScionLight-reimpl) - Implementation of ScionLight uSCG optimizer from [Training Deep Learning Models with Norm-Constrained LMOs](https://arxiv.org/abs/2502.07529)
+1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
+
 ### Usable Projects
 
 1. [import-ynab](https://github.com/LunNova/import-ynab)
@@ -22,16 +32,6 @@
 1. [JarOpener](https://github.com/TransLunarInjection/JarOpener). Tool which makes every entry in a jar non-final and accessible.
 1. [no-more-mr-dice-guy](https://github.com/TransLunarInjection/no-more-mr-dice-guy). Discord dice bot mostly intended for text RPGs.
 1. [binja-function-finder](https://github.com/TransLunarInjection/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://web.archive.org/web/20150321025633/https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
- 
-### Security Research
-
-1. CVE-2018-7118 - [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
-1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
-
-### Machine Learning
-
-1. [ScionLight-reimpl](https://github.com/LunNova/ScionLight-reimpl) - Implementation of ScionLight uSCG optimizer from [Training Deep Learning Models with Norm-Constrained LMOs](https://arxiv.org/abs/2502.07529)
-1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
 
 ### Services / Sites
 
