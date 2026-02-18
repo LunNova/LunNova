@@ -31,7 +31,7 @@
 
 ### Services / Sites
 
-1. [lunnova.dev/](https://lunnova.dev/) — Static site and blog built with [Zola](https://www.getzola.org/). I post an article at least every few months.
+1. [lunnova.dev/](https://lunnova.dev/) — Static site and blog built with a custom site engine. I post articles most months, on varied topics.
 1. [Planetside 2 Mouse Sensitivity Calculator](https://nallar.me/ps2sens/) — Calculates sensitivity config for given cm/360 for PS2.
 1. [Maven](https://maven.minco.dev/) — Repo with java libraries. (Supersedes repo.nallar.me, which will see no new content.)
 1. [Old jenkins](https://jenkins.nallar.me/) — Builds/downloads for Java projects prior to ~2019
