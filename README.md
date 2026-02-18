@@ -10,7 +10,12 @@
 1. [ScionLight-reimpl](https://github.com/LunNova/ScionLight-reimpl) - Implementation of ScionLight uSCG optimizer from [Training Deep Learning Models with Norm-Constrained LMOs](https://arxiv.org/abs/2502.07529)
 1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
 
-### Usable Projects
+### Systems & Performance
+
+1. [Zen 3's Amazing Slow Short Rep Mov](https://lunnova.dev/articles/ryzen-slow-short-rep-mov/) — AMD Zen 3 signals Fast Short Rep Mov support but it's slow for unaligned data, causing glibc and Linux kernel memcpy regressions.
+1. [AMD Instinct MI100 and MI210 don't support power saving](https://lunnova.dev/articles/instinct-mi100-mi210-power-hungry/) — Shocking lack of power management on modern datacenter GPUs, ~50W idle floor with no runtime suspend.
+
+### Projects
 
 1. [import-ynab](https://github.com/LunNova/import-ynab)
    Automatic data import for [YNAB](https://www.youneedabudget.com/ "You Need A Budget") budgeting tool. For Revolut or UK truelayer users only.
