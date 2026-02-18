@@ -19,8 +19,6 @@
 1. [TickThreading](https://github.com/MinimallyCorrect/TickThreading)
    Threading/performance enhancement for modded minecraft. Only has workable released versions for 1.4.7.
 1. [nixos-configs](https://github.com/LunNova/nixos-configs) Infrastructure as Code for all my home PCs and home servers, with as little state as I can manage.
-1. [Pluralsight Speed](https://github.com/LunNova/userscripts/blob/main/pluralsight%20speed.user.js)
-   Userscript which allows higher than 2x playback speed when watching Pluralsight courses.
 1. [RecirculatingCarriageForTSlot](https://github.com/LunNova/RecirculatingCarriageForTSlot).
    A 3d printable (except for bearing balls) parametric recirculating carriage for T-Slot extrusion.
 1. [PS2Edit](https://github.com/LunNova/PS2Edit).
