@@ -28,13 +28,13 @@
    A 3d printable (except for bearing balls) parametric recirculating carriage for T-Slot extrusion.
 1. [PS2Edit](https://github.com/LunNova/PS2Edit).
    Viewer and editor for Planetside 2 asset pack files.
-1. [Puma6Fail](https://github.com/TransLunarInjection/Puma6Fail).
+1. [Puma6Fail](https://github.com/LunNova/Puma6Fail).
    Demo of CVE-2017-5693, a Denial of Service attack against Puma 6 cable modems which also impacted normal usage with lots of UDP traffic.
-1. [NoCursorLock](https://github.com/TransLunarInjection/NoCursorLock).
+1. [NoCursorLock](https://github.com/LunNova/NoCursorLock).
    Stops Nvidia shield streaming service from locking the cursor on the primary monitor.
-1. [JarOpener](https://github.com/TransLunarInjection/JarOpener). Tool which makes every entry in a jar non-final and accessible.
-1. [no-more-mr-dice-guy](https://github.com/TransLunarInjection/no-more-mr-dice-guy). Discord dice bot mostly intended for text RPGs.
-1. [binja-function-finder](https://github.com/TransLunarInjection/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://web.archive.org/web/20150321025633/https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
+1. [JarOpener](https://github.com/LunNova/JarOpener). Tool which makes every entry in a jar non-final and accessible.
+1. [no-more-mr-dice-guy](https://github.com/LunNova/no-more-mr-dice-guy). Discord dice bot mostly intended for text RPGs.
+1. [binja-function-finder](https://github.com/LunNova/binja-function-finder). [Binary Ninja](https://binary.ninja/) plugin which finds symbols using MSVC RTTI [RUNTIME_FUNCTION](https://web.archive.org/web/20150321025633/https://msdn.microsoft.com/en-us/library/ft9x1kdx.aspx) entries.
 
 ### Services / Sites
 
