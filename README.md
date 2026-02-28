@@ -8,6 +8,7 @@
 ### Machine Learning
 
 1. [ScionLight-reimpl](https://github.com/LunNova/ScionLight-reimpl) — Implementation of ScionLight uSCG optimizer from [Training Deep Learning Models with Norm-Constrained LMOs](https://arxiv.org/abs/2502.07529)
+1. [ROCm: 7.1.1 You can (not) build.](https://lunnova.dev/articles/rocm-711-you-can-not-build/) — Humorous retelling of the distro ROCm maintainer experience.
 1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
 
 ### Systems & Performance
