@@ -1,5 +1,8 @@
 [$ cd ~LunNova](https://lunnova.dev/)
 
+I'm currently looking for employment, primarily working at the intersection of Nix & Machine Learning.  
+Message me at gh-jobs-26@lunnova.dev if you're interested.
+
 ### Security Research
 
 1. CVE-2018-7118 — [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
