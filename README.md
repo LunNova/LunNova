@@ -3,22 +3,25 @@
 I'm currently looking for employment, primarily working at the intersection of Nix & Machine Learning.  
 Message me at gh-jobs-26@lunnova.dev if you're interested.
 
-### Security Research
-
-1. CVE-2018-7118 — [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
-1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
-
 ### Machine Learning
 
 1. [Trained steering vectors may work as activation oracles](https://lunnova.dev/articles/steering-vector-activation-oracle/) — Preliminary results based on combining Activation Oracles and Instruct Vectors
 1. [ScionLight-reimpl](https://github.com/LunNova/ScionLight-reimpl) — Implementation of ScionLight uSCG optimizer from [Training Deep Learning Models with Norm-Constrained LMOs](https://arxiv.org/abs/2502.07529)
 1. [ROCm: 7.1.1 You can (not) build.](https://lunnova.dev/articles/rocm-711-you-can-not-build/) — Humorous retelling of the distro ROCm maintainer experience.
-1. [Optimizing Stable Diffusion Training VRAM Usage by moving EMA Weights to the CPU](https://lunnova.dev/articles/stable-diffusion-ema-on-cpu/)
 
 ### Systems & Performance
 
 1. [Zen 3's Amazing Slow Short Rep Mov](https://lunnova.dev/articles/ryzen-slow-short-rep-mov/) — AMD Zen 3 signals Fast Short Rep Mov support but it's slow for unaligned data, causing glibc and Linux kernel memcpy regressions.
 1. [AMD Instinct MI100 and MI210 don't support power saving](https://lunnova.dev/articles/instinct-mi100-mi210-power-hungry/) — Shocking lack of power management on modern datacenter GPUs, ~50W idle floor with no runtime suspend.
+
+### Security Research
+
+1. CVE-2018-7118 — [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
+1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
+
+<details>
+<summary>Click for Projects & Sites</summary>
+  
 
 ### Projects
 
@@ -42,3 +45,4 @@ Message me at gh-jobs-26@lunnova.dev if you're interested.
 1. [Old jenkins](https://jenkins.nallar.me/) — Builds/downloads for Java projects prior to ~2019
 1. [Nano Node](https://nano-node-monitor.moonstruck.dev/) — Nano node. "Green" crypto doesn't involve mining, staking or fees and relies on volunteers, so I run a node to help the network.
 1. [MLP fic list](https://www.nallar.me/fics/) — Archive of My Little Pony fanfiction scraped from google docs, from before the community realized that was terrible and moved to fimfiction.
+</details>
