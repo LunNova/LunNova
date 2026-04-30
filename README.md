@@ -11,8 +11,9 @@ Message me at gh-jobs-26@lunnova.dev if you're interested.
 
 ### Systems & Performance
 
-1. [Zen 3's Amazing Slow Short Rep Mov](https://lunnova.dev/articles/ryzen-slow-short-rep-mov/) — AMD Zen 3 signals Fast Short Rep Mov support but it's slow for unaligned data, causing glibc and Linux kernel memcpy regressions.
-1. [AMD Instinct MI100 and MI210 don't support power saving](https://lunnova.dev/articles/instinct-mi100-mi210-power-hungry/) — Shocking lack of power management on modern datacenter GPUs, ~50W idle floor with no runtime suspend.
+1. [Zen 3's Amazing Slow Short Rep Mov](https://lunnova.dev/articles/ryzen-slow-short-rep-mov/) — AMD Zen 3 signals Fast Short Rep Mov support but it's slow for unaligned data, causing glibc and Linux kernel memcpy regressions
+1. [Linux GPU Runtime Power Management Spurious Resumes](https://lunnova.dev/articles/linux-gpu-runpm-spurious-resumes/) — debugging Linux/amdgpu runpm wakeups from device-node opens, Vulkan enumeration and other userspace pollers
+1. [Walking the stack incorrectly in a WINE program from eBPF](https://lunnova.dev/articles/ebpf-wine-stack-walking-incorrectly/) — eBPF stack tracing in Wine processes under control flow constraints leads to guess and check walks
 
 ### Security & Hardening
 
