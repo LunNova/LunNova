@@ -14,9 +14,10 @@ Message me at gh-jobs-26@lunnova.dev if you're interested.
 1. [Zen 3's Amazing Slow Short Rep Mov](https://lunnova.dev/articles/ryzen-slow-short-rep-mov/) — AMD Zen 3 signals Fast Short Rep Mov support but it's slow for unaligned data, causing glibc and Linux kernel memcpy regressions.
 1. [AMD Instinct MI100 and MI210 don't support power saving](https://lunnova.dev/articles/instinct-mi100-mi210-power-hungry/) — Shocking lack of power management on modern datacenter GPUs, ~50W idle floor with no runtime suspend.
 
-### Security Research
+### Security & Hardening
 
-1. CVE-2018-7118 — [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
+1. NixOS hardening — treewide PIE-by-default for improved ASLR coverage, kernel config hardening, various
+1. Found CVE-2018-7118 — [Rooting your HP BladeSystem](https://lunnova.dev/articles/cve-2018-7118-bladesystem-root/)
 1. [Bypassing Triplebyte's direct booking prerequisites](https://lunnova.dev/articles/bypassing-triplebyte-requirements/)
 
 <details>
