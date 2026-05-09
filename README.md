@@ -1,8 +1,5 @@
 [$ cd ~LunNova](https://lunnova.dev/)
 
-I'm currently looking for employment, primarily working at the intersection of Nix & Machine Learning.  
-Message me at gh-jobs-26@lunnova.dev if you're interested.
-
 ### Machine Learning
 
 1. [Trained steering vectors may work as activation oracles](https://lunnova.dev/articles/steering-vector-activation-oracle/) — Preliminary results combining Activation Oracles and Instruct Vectors
